@@ -5,6 +5,7 @@
 [![](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/ "JavaScript")
 [![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/ "Visual Studio Code")
 [![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=lua)](https://lua.org/ "Lua")
 [![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/ "NodeJS")
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/ "Discord.JS")
 [![](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/de/products/photoshop.html "Adobe Photoshop")
